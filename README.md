@@ -1,6 +1,5 @@
 # U2-W2-D2
-
-  <!-- Abbiamo bisogno di un sito web per un'agenzia di viaggi!
+Abbiamo bisogno di un sito web per un'agenzia di viaggi!
 
 In questa pagina aggiungerai destinazioni di posti che sogni di visitare in futuro.
 
